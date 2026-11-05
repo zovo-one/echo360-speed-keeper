@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Reține viteza preferată pentru cursurile Echo360 și o reaplică automat de fiecare dată când deschizi o înregistrare.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Viteză"
+  },
+  "reset": {
+    "message": "Resetează la 1,00x"
+  },
+  "applied": {
+    "message": "Aplicat"
+  },
+  "options": {
+    "message": "Opțiuni"
+  },
+  "optionsSub": {
+    "message": "Setează-ți viteza preferată o singură dată."
+  },
+  "speedHeader": {
+    "message": "Viteza preferată"
+  },
+  "speedNote": {
+    "message": "Fiecare înregistrare Echo360 pe care o deschizi va rula automat la această viteză. Meniul de viteză al playerului gazdă se va sincroniza."
+  },
+  "privacyHeader": {
+    "message": "Confidențialitate"
+  },
+  "privacyNote": {
+    "message": "Singurul lucru pe care îl stochează această extensie este un singur număr — viteza ta preferată. Fără conturi, fără cloud, fără urmărire. Videoclipul cursului rămâne în fila ta. Nimic nu părăsește dispozitivul tău."
+  },
+  "disclaimer": {
+    "message": "Fără nicio afiliere cu Echo360."
+  },
+  "footerLink": {
+    "message": "Creat de zovo.one →"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Įsimena jūsų pageidaujamą Echo360 paskaitų greitį ir automatiškai jį vėl pritaiko kiekvieną kartą, kai atidarote įrašą.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Greitis"
+  },
+  "reset": {
+    "message": "Atkurti į 1,00x"
+  },
+  "applied": {
+    "message": "Pritaikyta"
+  },
+  "options": {
+    "message": "Parinktys"
+  },
+  "optionsSub": {
+    "message": "Nustatykite pageidaujamą greitį vieną kartą."
+  },
+  "speedHeader": {
+    "message": "Pageidaujamas greitis"
+  },
+  "speedNote": {
+    "message": "Kiekvienas jūsų atidarytas Echo360 įrašas bus automatiškai atkuriamas šiuo greičiu. Grotuvo paties greičio meniu prisiderins."
+  },
+  "privacyHeader": {
+    "message": "Privatumas"
+  },
+  "privacyNote": {
+    "message": "Vienintelis dalykas, kurį šis plėtinys saugo, yra vienas skaičius — jūsų pageidaujamas greitis. Jokių paskyrų, jokio debesies, jokio sekimo. Paskaitos vaizdo įrašas lieka jūsų skirtuke. Niekas nepalieka jūsų įrenginio."
+  },
+  "disclaimer": {
+    "message": "Nesusijęs su Echo360."
+  },
+  "footerLink": {
+    "message": "Sukūrė zovo.one →"
+  }
+}

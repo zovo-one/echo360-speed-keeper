@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Mengingati kelajuan kuliah Echo360 pilihan anda dan menggunakannya semula secara automatik setiap kali anda membuka rakaman.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Kelajuan"
+  },
+  "reset": {
+    "message": "Tetapkan semula ke 1.00x"
+  },
+  "applied": {
+    "message": "Digunakan"
+  },
+  "options": {
+    "message": "Pilihan"
+  },
+  "optionsSub": {
+    "message": "Tetapkan kelajuan pilihan anda sekali sahaja."
+  },
+  "speedHeader": {
+    "message": "Kelajuan pilihan"
+  },
+  "speedNote": {
+    "message": "Setiap rakaman Echo360 yang anda buka akan dimainkan pada kelajuan ini secara automatik. Menu kelajuan pemain hos akan turut menyesuaikan diri."
+  },
+  "privacyHeader": {
+    "message": "Privasi"
+  },
+  "privacyNote": {
+    "message": "Satu-satunya perkara yang disimpan oleh sambungan ini ialah satu nombor — kelajuan pilihan anda. Tiada akaun, tiada awan, tiada penjejakan. Video kuliah kekal dalam tab anda. Tiada apa-apa yang meninggalkan peranti anda."
+  },
+  "disclaimer": {
+    "message": "Tidak bergabung dengan Echo360."
+  },
+  "footerLink": {
+    "message": "Dibina oleh zovo.one →"
+  }
+}

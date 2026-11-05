@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Hukumbuka kasi unayopendelea ya mihadhara ya Echo360 na kuitumia tena kiotomatiki kila unapofungua rekodi.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Kasi"
+  },
+  "reset": {
+    "message": "Rejesha hadi 1.00x"
+  },
+  "applied": {
+    "message": "Imetumika"
+  },
+  "options": {
+    "message": "Machaguo"
+  },
+  "optionsSub": {
+    "message": "Weka kasi unayopendelea mara moja."
+  },
+  "speedHeader": {
+    "message": "Kasi unayopendelea"
+  },
+  "speedNote": {
+    "message": "Kila rekodi ya Echo360 unayoifungua itachezwa kwa kasi hii kiotomatiki. Menyu ya kasi ya kicheza chenyewe itafuatana nayo."
+  },
+  "privacyHeader": {
+    "message": "Faragha"
+  },
+  "privacyNote": {
+    "message": "Kitu pekee ambacho kiendelezi hiki huhifadhi ni nambari moja tu — kasi unayopendelea. Hakuna akaunti, hakuna wingu, hakuna ufuatiliaji. Video ya mhadhara inabaki katika kichupo chako. Hakuna kinachotoka kwenye kifaa chako."
+  },
+  "disclaimer": {
+    "message": "Haihusiani na Echo360."
+  },
+  "footerLink": {
+    "message": "Imetengenezwa na zovo.one →"
+  }
+}

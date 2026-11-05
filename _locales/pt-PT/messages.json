@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Memoriza a sua velocidade preferida das aulas do Echo360 e volta a aplicá-la automaticamente sempre que abre uma gravação.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Velocidade"
+  },
+  "reset": {
+    "message": "Repor para 1,00x"
+  },
+  "applied": {
+    "message": "Aplicado"
+  },
+  "options": {
+    "message": "Opções"
+  },
+  "optionsSub": {
+    "message": "Defina a sua velocidade preferida uma vez."
+  },
+  "speedHeader": {
+    "message": "Velocidade preferida"
+  },
+  "speedNote": {
+    "message": "Todas as gravações do Echo360 que abrir serão reproduzidas automaticamente a esta velocidade. O menu de velocidade do próprio leitor irá acompanhar."
+  },
+  "privacyHeader": {
+    "message": "Privacidade"
+  },
+  "privacyNote": {
+    "message": "A única coisa que esta extensão guarda é um único número — a sua velocidade preferida. Sem contas, sem nuvem, sem rastreio. O vídeo da aula permanece no seu separador. Nada sai do seu dispositivo."
+  },
+  "disclaimer": {
+    "message": "Sem qualquer afiliação com o Echo360."
+  },
+  "footerLink": {
+    "message": "Criado por zovo.one →"
+  }
+}

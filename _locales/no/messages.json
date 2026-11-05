@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Husker din foretrukne Echo360-forelesningshastighet og bruker den automatisk på nytt hver gang du åpner et opptak.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Hastighet"
+  },
+  "reset": {
+    "message": "Tilbakestill til 1,00x"
+  },
+  "applied": {
+    "message": "Brukt"
+  },
+  "options": {
+    "message": "Innstillinger"
+  },
+  "optionsSub": {
+    "message": "Angi din foretrukne hastighet én gang."
+  },
+  "speedHeader": {
+    "message": "Foretrukket hastighet"
+  },
+  "speedNote": {
+    "message": "Hvert Echo360-opptak du åpner, spilles automatisk av med denne hastigheten. Spillerens egen hastighetsmeny følger med."
+  },
+  "privacyHeader": {
+    "message": "Personvern"
+  },
+  "privacyNote": {
+    "message": "Det eneste denne utvidelsen lagrer er ett enkelt tall — din foretrukne hastighet. Ingen kontoer, ingen sky, ingen sporing. Forelesningsvideoen blir værende i fanen din. Ingenting forlater enheten din."
+  },
+  "disclaimer": {
+    "message": "Ikke tilknyttet Echo360."
+  },
+  "footerLink": {
+    "message": "Laget av zovo.one →"
+  }
+}

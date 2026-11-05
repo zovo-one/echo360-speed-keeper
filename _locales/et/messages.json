@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Jätab meelde sinu eelistatud Echo360 loengu esituskiiruse ja rakendab selle automaatselt uuesti iga kord, kui avad salvestise.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Kiirus"
+  },
+  "reset": {
+    "message": "Lähtesta väärtusele 1,00x"
+  },
+  "applied": {
+    "message": "Rakendatud"
+  },
+  "options": {
+    "message": "Valikud"
+  },
+  "optionsSub": {
+    "message": "Määra oma eelistatud kiirus üks kord."
+  },
+  "speedHeader": {
+    "message": "Eelistatud kiirus"
+  },
+  "speedNote": {
+    "message": "Iga avatud Echo360 salvestis esitatakse automaatselt selle kiirusega. Mängija enda kiirusemenüü järgib seda."
+  },
+  "privacyHeader": {
+    "message": "Privaatsus"
+  },
+  "privacyNote": {
+    "message": "Ainus asi, mida see laiendus salvestab, on üksainus number — sinu eelistatud kiirus. Kontosid ei ole, pilve ei ole, jälgimist ei ole. Loenguvideo jääb sinu vahekaardile. Miski ei lahku sinu seadmest."
+  },
+  "disclaimer": {
+    "message": "Ei ole seotud Echo360-ga."
+  },
+  "footerLink": {
+    "message": "Loonud zovo.one →"
+  }
+}

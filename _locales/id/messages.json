@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Mengingat kecepatan kuliah Echo360 yang Anda sukai dan menerapkannya kembali secara otomatis setiap kali Anda membuka rekaman.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Kecepatan"
+  },
+  "reset": {
+    "message": "Setel ulang ke 1.00x"
+  },
+  "applied": {
+    "message": "Diterapkan"
+  },
+  "options": {
+    "message": "Opsi"
+  },
+  "optionsSub": {
+    "message": "Atur kecepatan pilihan Anda sekali saja."
+  },
+  "speedHeader": {
+    "message": "Kecepatan pilihan"
+  },
+  "speedNote": {
+    "message": "Setiap rekaman Echo360 yang Anda buka akan diputar dengan kecepatan ini secara otomatis. Menu kecepatan pemutar aslinya akan mengikuti."
+  },
+  "privacyHeader": {
+    "message": "Privasi"
+  },
+  "privacyNote": {
+    "message": "Satu-satunya yang disimpan ekstensi ini adalah sebuah angka — kecepatan pilihan Anda. Tanpa akun, tanpa cloud, tanpa pelacakan. Video kuliah tetap berada di tab Anda. Tidak ada yang meninggalkan perangkat Anda."
+  },
+  "disclaimer": {
+    "message": "Tidak berafiliasi dengan Echo360."
+  },
+  "footerLink": {
+    "message": "Dibuat oleh zovo.one →"
+  }
+}

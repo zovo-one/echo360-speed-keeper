@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "سرعت دلخواه سخنرانی Echo360 شما را به خاطر می‌سپارد و هر بار که یک ضبط را باز می‌کنید، آن را به‌طور خودکار دوباره اعمال می‌کند.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "سرعت"
+  },
+  "reset": {
+    "message": "بازنشانی به ۱٫۰۰x"
+  },
+  "applied": {
+    "message": "اعمال شد"
+  },
+  "options": {
+    "message": "تنظیمات"
+  },
+  "optionsSub": {
+    "message": "سرعت دلخواه خود را یک بار تنظیم کنید."
+  },
+  "speedHeader": {
+    "message": "سرعت دلخواه"
+  },
+  "speedNote": {
+    "message": "هر ضبط Echo360 که باز کنید به‌طور خودکار با این سرعت پخش می‌شود. منوی سرعت خودِ پخش‌کننده نیز با آن هماهنگ می‌شود."
+  },
+  "privacyHeader": {
+    "message": "حریم خصوصی"
+  },
+  "privacyNote": {
+    "message": "تنها چیزی که این افزونه ذخیره می‌کند یک عدد است — سرعت دلخواه شما. نه حسابی، نه ابری، نه ردیابی. ویدیوی سخنرانی در تب شما باقی می‌ماند. هیچ چیز از دستگاه شما خارج نمی‌شود."
+  },
+  "disclaimer": {
+    "message": "وابسته به Echo360 نیست."
+  },
+  "footerLink": {
+    "message": "ساخته‌شده توسط zovo.one →"
+  }
+}

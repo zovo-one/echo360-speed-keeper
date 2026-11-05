@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Ghi nhớ tốc độ bài giảng Echo360 ưa thích của bạn và tự động áp dụng lại mỗi khi bạn mở một bản ghi.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Tốc độ"
+  },
+  "reset": {
+    "message": "Đặt lại về 1.00x"
+  },
+  "applied": {
+    "message": "Đã áp dụng"
+  },
+  "options": {
+    "message": "Tùy chọn"
+  },
+  "optionsSub": {
+    "message": "Đặt tốc độ ưa thích của bạn một lần."
+  },
+  "speedHeader": {
+    "message": "Tốc độ ưa thích"
+  },
+  "speedNote": {
+    "message": "Mọi bản ghi Echo360 bạn mở sẽ tự động phát ở tốc độ này. Menu tốc độ của trình phát gốc cũng sẽ điều chỉnh theo."
+  },
+  "privacyHeader": {
+    "message": "Quyền riêng tư"
+  },
+  "privacyNote": {
+    "message": "Thứ duy nhất tiện ích mở rộng này lưu trữ là một con số — tốc độ ưa thích của bạn. Không tài khoản, không đám mây, không theo dõi. Video bài giảng vẫn ở trong tab của bạn. Không có gì rời khỏi thiết bị của bạn."
+  },
+  "disclaimer": {
+    "message": "Không liên kết với Echo360."
+  },
+  "footerLink": {
+    "message": "Được xây dựng bởi zovo.one →"
+  }
+}

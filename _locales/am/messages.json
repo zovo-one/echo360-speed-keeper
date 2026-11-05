@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 የፍጥነት መያዣ"
+  },
+  "extDesc": {
+    "message": "የመረጡትን የEcho360 ትምህርት ፍጥነት ያስታውሳል፣ እና ቀረጻ በከፈቱ ቁጥር በራስ-ሰር እንደገና ይተገብረዋል።",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "ፍጥነት"
+  },
+  "reset": {
+    "message": "ወደ 1.00x ዳግም አስጀምር"
+  },
+  "applied": {
+    "message": "ተተግብሯል"
+  },
+  "options": {
+    "message": "አማራጮች"
+  },
+  "optionsSub": {
+    "message": "የመረጡትን ፍጥነት አንድ ጊዜ ያዘጋጁ።"
+  },
+  "speedHeader": {
+    "message": "የተመረጠ ፍጥነት"
+  },
+  "speedNote": {
+    "message": "የሚከፍቱት እያንዳንዱ የEcho360 ቀረጻ በራስ-ሰር በዚህ ፍጥነት ይጫወታል። የአስተናጋጁ አጫዋች የራሱ የፍጥነት ምናሌም አብሮ ይከተላል።"
+  },
+  "privacyHeader": {
+    "message": "ግላዊነት"
+  },
+  "privacyNote": {
+    "message": "ይህ ቅጥያ የሚያከማቸው ብቸኛው ነገር አንድ ቁጥር ነው — የመረጡት ፍጥነት። ምንም መለያ የለም፣ ምንም ደመና የለም፣ ምንም ክትትል የለም። የትምህርቱ ቪዲዮ በእርስዎ ትር ውስጥ ይቆያል። ምንም ነገር ከመሣሪያዎ አይወጣም።"
+  },
+  "disclaimer": {
+    "message": "ከEcho360 ጋር ግንኙነት የለውም።"
+  },
+  "footerLink": {
+    "message": "በzovo.one የተሰራ →"
+  }
+}

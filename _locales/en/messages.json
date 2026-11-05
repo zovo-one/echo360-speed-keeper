@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Remembers your preferred Echo360 lecture speed and re-applies it automatically every time you open a recording.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Speed"
+  },
+  "reset": {
+    "message": "Reset to 1.00x"
+  },
+  "applied": {
+    "message": "Applied"
+  },
+  "options": {
+    "message": "Options"
+  },
+  "optionsSub": {
+    "message": "Set your preferred speed once."
+  },
+  "speedHeader": {
+    "message": "Preferred speed"
+  },
+  "speedNote": {
+    "message": "Every Echo360 recording you open will play at this speed automatically. The host player's own speed menu will follow along."
+  },
+  "privacyHeader": {
+    "message": "Privacy"
+  },
+  "privacyNote": {
+    "message": "The only thing this extension stores is a single number — your preferred speed. No accounts, no cloud, no tracking. The lecture video stays in your tab. Nothing leaves your device."
+  },
+  "disclaimer": {
+    "message": "Not affiliated with Echo360."
+  },
+  "footerLink": {
+    "message": "Built by zovo.one →"
+  }
+}

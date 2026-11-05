@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Muistaa haluamasi Echo360-luentonopeuden ja ottaa sen automaattisesti uudelleen käyttöön aina, kun avaat tallenteen.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Nopeus"
+  },
+  "reset": {
+    "message": "Palauta arvoon 1,00x"
+  },
+  "applied": {
+    "message": "Otettu käyttöön"
+  },
+  "options": {
+    "message": "Asetukset"
+  },
+  "optionsSub": {
+    "message": "Aseta haluamasi nopeus kerran."
+  },
+  "speedHeader": {
+    "message": "Haluttu nopeus"
+  },
+  "speedNote": {
+    "message": "Jokainen avaamasi Echo360-tallenne toistetaan automaattisesti tällä nopeudella. Soittimen oma nopeusvalikko seuraa mukana."
+  },
+  "privacyHeader": {
+    "message": "Yksityisyys"
+  },
+  "privacyNote": {
+    "message": "Ainoa asia, jonka tämä laajennus tallentaa, on yksi luku — haluamasi nopeus. Ei tilejä, ei pilveä, ei seurantaa. Luentovideo pysyy välilehdelläsi. Mikään ei poistu laitteeltasi."
+  },
+  "disclaimer": {
+    "message": "Ei liity Echo360:een."
+  },
+  "footerLink": {
+    "message": "Tehnyt zovo.one →"
+  }
+}

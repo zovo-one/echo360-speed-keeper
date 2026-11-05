@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Zapamätá si vašu preferovanú rýchlosť prednášok Echo360 a automaticky ju znova použije zakaždým, keď otvoríte nahrávku.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Rýchlosť"
+  },
+  "reset": {
+    "message": "Obnoviť na 1,00x"
+  },
+  "applied": {
+    "message": "Použité"
+  },
+  "options": {
+    "message": "Možnosti"
+  },
+  "optionsSub": {
+    "message": "Nastavte si preferovanú rýchlosť raz."
+  },
+  "speedHeader": {
+    "message": "Preferovaná rýchlosť"
+  },
+  "speedNote": {
+    "message": "Každá nahrávka Echo360, ktorú otvoríte, sa automaticky prehrá touto rýchlosťou. Ponuka rýchlosti samotného prehrávača sa prispôsobí."
+  },
+  "privacyHeader": {
+    "message": "Súkromie"
+  },
+  "privacyNote": {
+    "message": "Jediné, čo toto rozšírenie ukladá, je jedno číslo — vaša preferovaná rýchlosť. Žiadne účty, žiadny cloud, žiadne sledovanie. Video prednášky zostáva vo vašej karte. Nič neopúšťa vaše zariadenie."
+  },
+  "disclaimer": {
+    "message": "Bez akéhokoľvek prepojenia s Echo360."
+  },
+  "footerLink": {
+    "message": "Vytvorené zovo.one →"
+  }
+}

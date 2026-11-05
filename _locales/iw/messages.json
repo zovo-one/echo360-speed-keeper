@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "זוכר את מהירות ההרצאה המועדפת עליך ב-Echo360 ומחיל אותה מחדש באופן אוטומטי בכל פעם שאתה פותח הקלטה.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "מהירות"
+  },
+  "reset": {
+    "message": "איפוס ל-1.00x"
+  },
+  "applied": {
+    "message": "הוחל"
+  },
+  "options": {
+    "message": "אפשרויות"
+  },
+  "optionsSub": {
+    "message": "הגדר את המהירות המועדפת עליך פעם אחת."
+  },
+  "speedHeader": {
+    "message": "מהירות מועדפת"
+  },
+  "speedNote": {
+    "message": "כל הקלטת Echo360 שתפתח תנוגן אוטומטית במהירות זו. תפריט המהירות של הנגן עצמו יעקוב בהתאם."
+  },
+  "privacyHeader": {
+    "message": "פרטיות"
+  },
+  "privacyNote": {
+    "message": "הדבר היחיד שהתוסף הזה שומר הוא מספר יחיד — המהירות המועדפת עליך. ללא חשבונות, ללא ענן, ללא מעקב. סרטון ההרצאה נשאר בכרטיסייה שלך. שום דבר לא עוזב את המכשיר שלך."
+  },
+  "disclaimer": {
+    "message": "לא קשור ל-Echo360."
+  },
+  "footerLink": {
+    "message": "נבנה על ידי zovo.one →"
+  }
+}

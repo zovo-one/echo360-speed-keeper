@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Pamti željenu brzinu reprodukcije Echo360 predavanja i automatski je ponovno primjenjuje svaki put kada otvorite snimku.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Brzina"
+  },
+  "reset": {
+    "message": "Vrati na 1.00x"
+  },
+  "applied": {
+    "message": "Primijenjeno"
+  },
+  "options": {
+    "message": "Opcije"
+  },
+  "optionsSub": {
+    "message": "Postavite željenu brzinu samo jednom."
+  },
+  "speedHeader": {
+    "message": "Željena brzina"
+  },
+  "speedNote": {
+    "message": "Svaka Echo360 snimka koju otvorite automatski će se reproducirati ovom brzinom. Izbornik brzine samog playera slijedit će tu postavku."
+  },
+  "privacyHeader": {
+    "message": "Privatnost"
+  },
+  "privacyNote": {
+    "message": "Jedino što ovo proširenje pohranjuje jest jedan broj — vaša željena brzina. Bez računa, bez oblaka, bez praćenja. Videozapis predavanja ostaje u vašoj kartici. Ništa ne napušta vaš uređaj."
+  },
+  "disclaimer": {
+    "message": "Nije povezano s Echo360."
+  },
+  "footerLink": {
+    "message": "Izradio zovo.one →"
+  }
+}

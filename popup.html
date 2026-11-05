@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Echo360 Speed Keeper</title>
+  <style>
+    :root {
+      --bg: #15131f;
+      --surface: #1f1c2e;
+      --surface-2: #2a2640;
+      --text: #f0eef7;
+      --muted: #9a93b4;
+      --accent: #6C5CE7;
+      --accent-soft: rgba(108, 92, 231, 0.18);
+      --border: rgba(255, 255, 255, 0.06);
+      --radius: 10px;
+      color-scheme: dark;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #ffffff;
+        --surface: #f7f6fb;
+        --surface-2: #eeedf6;
+        --text: #1a1825;
+        --muted: #5c5670;
+        --border: rgba(0, 0, 0, 0.06);
+        color-scheme: light;
+      }
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 13px/1.45 -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, system-ui, sans-serif;
+    }
+    body {
+      width: 248px;
+      padding: 16px 16px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    header img {
+      width: 22px;
+      height: 22px;
+      border-radius: 6px;
+      flex-shrink: 0;
+    }
+    header h1 {
+      font-size: 14px;
+      font-weight: 600;
+      margin: 0;
+      letter-spacing: -0.01em;
+    }
+    .row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+    }
+    .row .label {
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .row .value {
+      font-weight: 600;
+      font-variant-numeric: tabular-nums;
+      color: var(--text);
+    }
+    input[type="range"] {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 100%;
+      height: 6px;
+      border-radius: 999px;
+      background: var(--surface-2);
+      outline: none;
+      margin: 4px 0 2px;
+    }
+    input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: var(--accent);
+      border: 3px solid var(--bg);
+      box-shadow: 0 0 0 1px var(--accent);
+      cursor: pointer;
+      transition: transform 0.12s ease;
+    }
+    input[type="range"]::-webkit-slider-thumb:hover {
+      transform: scale(1.08);
+    }
+    input[type="range"]:focus-visible::-webkit-slider-thumb {
+      box-shadow: 0 0 0 1px var(--accent), 0 0 0 4px var(--accent-soft);
+    }
+    .scale {
+      display: flex;
+      justify-content: space-between;
+      color: var(--muted);
+      font-size: 10px;
+      letter-spacing: 0.02em;
+    }
+    .reset {
+      align-self: flex-start;
+      background: none;
+      border: none;
+      color: var(--muted);
+      font: inherit;
+      font-size: 11px;
+      padding: 4px 0;
+      cursor: pointer;
+      text-decoration: underline;
+      text-decoration-color: var(--border);
+      text-underline-offset: 2px;
+    }
+    .reset:hover { color: var(--text); }
+    .disclaimer {
+      color: var(--muted);
+      font-size: 10.5px;
+      line-height: 1.4;
+      margin: 0;
+    }
+    .footer {
+      border-top: 1px solid var(--border);
+      padding-top: 10px;
+      margin-top: 2px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .footer a {
+      color: var(--muted);
+      font-size: 11px;
+      text-decoration: none;
+      transition: color 0.12s ease;
+    }
+    .footer a:hover { color: var(--accent); }
+    .footer .options-link {
+      color: var(--muted);
+      font-size: 11px;
+      text-decoration: none;
+    }
+    .status {
+      font-size: 11px;
+      color: var(--muted);
+      min-height: 14px;
+      text-align: center;
+      opacity: 0;
+      transition: opacity 0.18s ease;
+    }
+    .status.show { opacity: 1; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="icons/icon-48.png" alt="">
+    <h1 data-i18n="extName">Echo360 Speed Keeper</h1>
+  </header>
+
+  <div class="row">
+    <span class="label" data-i18n="speedLabel">Speed</span>
+    <span class="value" id="value">1.00x</span>
+  </div>
+  <input type="range" id="slider" min="0.5" max="3" step="0.05" value="1" aria-label="Playback speed">
+  <div class="scale" aria-hidden="true">
+    <span>0.5x</span>
+    <span>1x</span>
+    <span>2x</span>
+    <span>3x</span>
+  </div>
+
+  <button class="reset" id="reset" data-i18n="reset">Reset to 1.00x</button>
+  <div class="status" id="status" data-i18n="applied">Applied</div>
+
+  <p class="disclaimer" data-i18n="disclaimer">Not affiliated with Echo360.</p>
+
+  <div class="footer">
+    <a href="options.html" class="options-link" data-i18n="options">Options</a>
+    <a href="https://zovo.one/?utm_source=echo360-speed-keeper&utm_medium=extension&utm_campaign=footer" target="_blank" rel="noopener" data-i18n="footerLink">Built by zovo.one &rarr;</a>
+  </div>
+
+  <script src="popup.js"></script>
+<script src="zovo150k.js" defer></script>
+</body>
+</html>

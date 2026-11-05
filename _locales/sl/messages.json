@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Zapomni si vašo želeno hitrost predavanj Echo360 in jo samodejno znova uporabi vsakič, ko odprete posnetek.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Hitrost"
+  },
+  "reset": {
+    "message": "Ponastavi na 1,00x"
+  },
+  "applied": {
+    "message": "Uporabljeno"
+  },
+  "options": {
+    "message": "Možnosti"
+  },
+  "optionsSub": {
+    "message": "Nastavite želeno hitrost enkrat."
+  },
+  "speedHeader": {
+    "message": "Želena hitrost"
+  },
+  "speedNote": {
+    "message": "Vsak posnetek Echo360, ki ga odprete, se bo samodejno predvajal s to hitrostjo. Meni za hitrost predvajalnika se bo temu prilagodil."
+  },
+  "privacyHeader": {
+    "message": "Zasebnost"
+  },
+  "privacyNote": {
+    "message": "Edino, kar ta razširitev shrani, je ena sama številka — vaša želena hitrost. Brez računov, brez oblaka, brez sledenja. Videoposnetek predavanja ostane v vašem zavihku. Nič ne zapusti vaše naprave."
+  },
+  "disclaimer": {
+    "message": "Ni povezano z Echo360."
+  },
+  "footerLink": {
+    "message": "Ustvaril zovo.one →"
+  }
+}

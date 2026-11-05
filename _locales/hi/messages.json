@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "आपकी पसंदीदा Echo360 लेक्चर स्पीड को याद रखता है और जब भी आप कोई रिकॉर्डिंग खोलते हैं, उसे अपने आप फिर से लागू कर देता है।",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "स्पीड"
+  },
+  "reset": {
+    "message": "1.00x पर रीसेट करें"
+  },
+  "applied": {
+    "message": "लागू किया गया"
+  },
+  "options": {
+    "message": "विकल्प"
+  },
+  "optionsSub": {
+    "message": "अपनी पसंदीदा स्पीड एक बार सेट करें।"
+  },
+  "speedHeader": {
+    "message": "पसंदीदा स्पीड"
+  },
+  "speedNote": {
+    "message": "आप जो भी Echo360 रिकॉर्डिंग खोलेंगे, वह अपने आप इसी स्पीड पर चलेगी। होस्ट प्लेयर का अपना स्पीड मेन्यू भी इसके अनुसार चलेगा।"
+  },
+  "privacyHeader": {
+    "message": "गोपनीयता"
+  },
+  "privacyNote": {
+    "message": "यह एक्सटेंशन केवल एक ही चीज़ सहेजता है — एक अकेली संख्या, यानी आपकी पसंदीदा स्पीड। कोई अकाउंट नहीं, कोई क्लाउड नहीं, कोई ट्रैकिंग नहीं। लेक्चर वीडियो आपके टैब में ही रहता है। कुछ भी आपके डिवाइस से बाहर नहीं जाता।"
+  },
+  "disclaimer": {
+    "message": "Echo360 से संबद्ध नहीं है।"
+  },
+  "footerLink": {
+    "message": "zovo.one द्वारा निर्मित →"
+  }
+}

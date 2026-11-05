@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Onthoudt je voorkeurssnelheid voor Echo360-colleges en past deze automatisch opnieuw toe telkens wanneer je een opname opent.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Snelheid"
+  },
+  "reset": {
+    "message": "Terugzetten naar 1,00x"
+  },
+  "applied": {
+    "message": "Toegepast"
+  },
+  "options": {
+    "message": "Opties"
+  },
+  "optionsSub": {
+    "message": "Stel je voorkeurssnelheid één keer in."
+  },
+  "speedHeader": {
+    "message": "Voorkeurssnelheid"
+  },
+  "speedNote": {
+    "message": "Elke Echo360-opname die je opent, wordt automatisch met deze snelheid afgespeeld. Het snelheidsmenu van de speler zelf volgt mee."
+  },
+  "privacyHeader": {
+    "message": "Privacy"
+  },
+  "privacyNote": {
+    "message": "Het enige dat deze extensie opslaat, is één getal — je voorkeurssnelheid. Geen accounts, geen cloud, geen tracking. De collegevideo blijft in je tabblad. Er verlaat niets je apparaat."
+  },
+  "disclaimer": {
+    "message": "Niet gelieerd aan Echo360."
+  },
+  "footerLink": {
+    "message": "Gemaakt door zovo.one →"
+  }
+}

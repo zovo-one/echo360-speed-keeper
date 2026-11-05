@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "حافظ سرعة Echo360"
+  },
+  "extDesc": {
+    "message": "يتذكر سرعة محاضرة Echo360 المفضلة لديك ويعيد تطبيقها تلقائيًا في كل مرة تفتح فيها تسجيلًا.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "السرعة"
+  },
+  "reset": {
+    "message": "إعادة التعيين إلى 1.00x"
+  },
+  "applied": {
+    "message": "تم التطبيق"
+  },
+  "options": {
+    "message": "الخيارات"
+  },
+  "optionsSub": {
+    "message": "اضبط سرعتك المفضلة مرة واحدة."
+  },
+  "speedHeader": {
+    "message": "السرعة المفضلة"
+  },
+  "speedNote": {
+    "message": "سيتم تشغيل كل تسجيل Echo360 تفتحه بهذه السرعة تلقائيًا. وستتبعه قائمة السرعة الخاصة بالمشغّل الأصلي."
+  },
+  "privacyHeader": {
+    "message": "الخصوصية"
+  },
+  "privacyNote": {
+    "message": "الشيء الوحيد الذي يخزّنه هذا الامتداد هو رقم واحد — سرعتك المفضلة. لا حسابات، ولا سحابة، ولا تتبع. يبقى فيديو المحاضرة في علامة التبويب الخاصة بك. لا شيء يغادر جهازك."
+  },
+  "disclaimer": {
+    "message": "غير تابع لـ Echo360."
+  },
+  "footerLink": {
+    "message": "من إنشاء zovo.one →"
+  }
+}

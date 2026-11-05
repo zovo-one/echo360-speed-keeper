@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Recorda la velocitat de reproducció de les classes d'Echo360 que prefereixes i la torna a aplicar automàticament cada vegada que obres un enregistrament.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Velocitat"
+  },
+  "reset": {
+    "message": "Restableix a 1.00x"
+  },
+  "applied": {
+    "message": "Aplicada"
+  },
+  "options": {
+    "message": "Opcions"
+  },
+  "optionsSub": {
+    "message": "Estableix la teva velocitat preferida una sola vegada."
+  },
+  "speedHeader": {
+    "message": "Velocitat preferida"
+  },
+  "speedNote": {
+    "message": "Cada enregistrament d'Echo360 que obris es reproduirà automàticament a aquesta velocitat. El menú de velocitat propi del reproductor s'hi adaptarà."
+  },
+  "privacyHeader": {
+    "message": "Privadesa"
+  },
+  "privacyNote": {
+    "message": "L'única cosa que aquesta extensió emmagatzema és un sol número — la teva velocitat preferida. Sense comptes, sense núvol, sense seguiment. El vídeo de la classe roman a la teva pestanya. Res no surt del teu dispositiu."
+  },
+  "disclaimer": {
+    "message": "No està afiliada a Echo360."
+  },
+  "footerLink": {
+    "message": "Creat per zovo.one →"
+  }
+}

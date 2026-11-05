@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 速度記憶器"
+  },
+  "extDesc": {
+    "message": "記住您偏好的 Echo360 講座播放速度，並在每次開啟錄影時自動重新套用。",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "速度"
+  },
+  "reset": {
+    "message": "重設為 1.00x"
+  },
+  "applied": {
+    "message": "已套用"
+  },
+  "options": {
+    "message": "選項"
+  },
+  "optionsSub": {
+    "message": "只需設定一次您偏好的速度。"
+  },
+  "speedHeader": {
+    "message": "偏好速度"
+  },
+  "speedNote": {
+    "message": "您開啟的每一段 Echo360 錄影都會自動以此速度播放。主機播放器本身的速度選單也會隨之同步。"
+  },
+  "privacyHeader": {
+    "message": "隱私"
+  },
+  "privacyNote": {
+    "message": "此擴充功能唯一儲存的就是一個數字 — 您偏好的速度。沒有帳戶、沒有雲端、沒有追蹤。講座影片留在您的分頁中。任何資料都不會離開您的裝置。"
+  },
+  "disclaimer": {
+    "message": "與 Echo360 無隸屬關係。"
+  },
+  "footerLink": {
+    "message": "由 zovo.one 打造 →"
+  }
+}

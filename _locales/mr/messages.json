@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "तुमचा पसंतीचा Echo360 व्याख्यान वेग लक्षात ठेवते आणि तुम्ही रेकॉर्डिंग उघडता तेव्हा प्रत्येक वेळी तो आपोआप पुन्हा लागू करते.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "वेग"
+  },
+  "reset": {
+    "message": "1.00x वर रीसेट करा"
+  },
+  "applied": {
+    "message": "लागू केले"
+  },
+  "options": {
+    "message": "पर्याय"
+  },
+  "optionsSub": {
+    "message": "तुमचा पसंतीचा वेग एकदाच सेट करा."
+  },
+  "speedHeader": {
+    "message": "पसंतीचा वेग"
+  },
+  "speedNote": {
+    "message": "तुम्ही उघडलेले प्रत्येक Echo360 रेकॉर्डिंग या वेगाने आपोआप प्ले होईल. प्लेयरचा स्वतःचा वेग मेनूही त्यानुसार जुळवून घेईल."
+  },
+  "privacyHeader": {
+    "message": "गोपनीयता"
+  },
+  "privacyNote": {
+    "message": "हे विस्तार साठवते ती एकमेव गोष्ट म्हणजे एकच संख्या — तुमचा पसंतीचा वेग. कोणतीही खाती नाहीत, क्लाउड नाही, ट्रॅकिंग नाही. व्याख्यान व्हिडिओ तुमच्या टॅबमध्येच राहतो. काहीही तुमचे डिव्हाइस सोडत नाही."
+  },
+  "disclaimer": {
+    "message": "Echo360 शी संलग्न नाही."
+  },
+  "footerLink": {
+    "message": "zovo.one ने तयार केले →"
+  }
+}

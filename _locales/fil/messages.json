@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Naaalala ang iyong ginustong bilis ng lektura sa Echo360 at awtomatikong muling inilalapat ito tuwing binubuksan mo ang isang recording.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Bilis"
+  },
+  "reset": {
+    "message": "I-reset sa 1.00x"
+  },
+  "applied": {
+    "message": "Nailapat na"
+  },
+  "options": {
+    "message": "Mga Opsyon"
+  },
+  "optionsSub": {
+    "message": "Itakda ang iyong ginustong bilis nang isang beses."
+  },
+  "speedHeader": {
+    "message": "Ginustong bilis"
+  },
+  "speedNote": {
+    "message": "Bawat Echo360 recording na bubuksan mo ay awtomatikong papatugtog sa bilis na ito. Susunod dito ang sariling speed menu ng player ng host."
+  },
+  "privacyHeader": {
+    "message": "Privacy"
+  },
+  "privacyNote": {
+    "message": "Ang tanging iniimbak ng extension na ito ay iisang numero — ang iyong ginustong bilis. Walang account, walang cloud, walang pagsubaybay. Nananatili sa iyong tab ang video ng lektura. Walang lumalabas sa iyong device."
+  },
+  "disclaimer": {
+    "message": "Hindi kaugnay ng Echo360."
+  },
+  "footerLink": {
+    "message": "Ginawa ng zovo.one →"
+  }
+}

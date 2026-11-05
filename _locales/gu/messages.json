@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "તમારી પસંદગીની Echo360 લેક્ચર સ્પીડ યાદ રાખે છે અને જ્યારે પણ તમે રેકોર્ડિંગ ખોલો ત્યારે તેને આપમેળે ફરીથી લાગુ કરે છે.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "સ્પીડ"
+  },
+  "reset": {
+    "message": "1.00x પર રીસેટ કરો"
+  },
+  "applied": {
+    "message": "લાગુ કર્યું"
+  },
+  "options": {
+    "message": "વિકલ્પો"
+  },
+  "optionsSub": {
+    "message": "તમારી પસંદગીની સ્પીડ એક વાર સેટ કરો."
+  },
+  "speedHeader": {
+    "message": "પસંદગીની સ્પીડ"
+  },
+  "speedNote": {
+    "message": "તમે ખોલો છો તે દરેક Echo360 રેકોર્ડિંગ આપમેળે આ સ્પીડે ચાલશે. હોસ્ટ પ્લેયરનું પોતાનું સ્પીડ મેનૂ પણ તેને અનુસરશે."
+  },
+  "privacyHeader": {
+    "message": "ગોપનીયતા"
+  },
+  "privacyNote": {
+    "message": "આ એક્સ્ટેન્શન માત્ર એક જ વસ્તુ સંગ્રહે છે — એક જ સંખ્યા, એટલે કે તમારી પસંદગીની સ્પીડ. કોઈ એકાઉન્ટ નહીં, કોઈ ક્લાઉડ નહીં, કોઈ ટ્રેકિંગ નહીં. લેક્ચર વિડિયો તમારા ટૅબમાં જ રહે છે. તમારા ડિવાઇસમાંથી કંઈ બહાર જતું નથી."
+  },
+  "disclaimer": {
+    "message": "Echo360 સાથે સંલગ્ન નથી."
+  },
+  "footerLink": {
+    "message": "zovo.one દ્વારા બનાવેલ →"
+  }
+}

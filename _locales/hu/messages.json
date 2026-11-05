@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Megjegyzi a kedvenc Echo360 előadási sebességedet, és minden alkalommal automatikusan újra alkalmazza, amikor megnyitsz egy felvételt.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Sebesség"
+  },
+  "reset": {
+    "message": "Visszaállítás 1,00x-re"
+  },
+  "applied": {
+    "message": "Alkalmazva"
+  },
+  "options": {
+    "message": "Beállítások"
+  },
+  "optionsSub": {
+    "message": "Állítsd be egyszer a kívánt sebességet."
+  },
+  "speedHeader": {
+    "message": "Kívánt sebesség"
+  },
+  "speedNote": {
+    "message": "Minden megnyitott Echo360 felvétel automatikusan ezzel a sebességgel fog lejátszódni. A lejátszó saját sebességmenüje is ehhez igazodik."
+  },
+  "privacyHeader": {
+    "message": "Adatvédelem"
+  },
+  "privacyNote": {
+    "message": "Ez a bővítmény egyetlen dolgot tárol csak — egyetlen számot: a kívánt sebességedet. Nincs fiók, nincs felhő, nincs nyomkövetés. Az előadás videója a lapodon marad. Semmi sem hagyja el az eszközödet."
+  },
+  "disclaimer": {
+    "message": "Nem áll kapcsolatban az Echo360-nal."
+  },
+  "footerLink": {
+    "message": "Készítette a zovo.one →"
+  }
+}

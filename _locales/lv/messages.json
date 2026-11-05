@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Echo360 Speed Keeper"
+  },
+  "extDesc": {
+    "message": "Iegaumē tavu vēlamo Echo360 lekciju atskaņošanas ātrumu un automātiski to atkārtoti piemēro katru reizi, kad atver ierakstu.",
+    "description": "Shown in the Chrome Web Store listing and the extensions page."
+  },
+  "speedLabel": {
+    "message": "Ātrums"
+  },
+  "reset": {
+    "message": "Atiestatīt uz 1,00x"
+  },
+  "applied": {
+    "message": "Piemērots"
+  },
+  "options": {
+    "message": "Iestatījumi"
+  },
+  "optionsSub": {
+    "message": "Iestati vēlamo ātrumu vienreiz."
+  },
+  "speedHeader": {
+    "message": "Vēlamais ātrums"
+  },
+  "speedNote": {
+    "message": "Katrs Echo360 ieraksts, ko atvērsi, automātiski atskaņosies šajā ātrumā. Atskaņotāja paša ātruma izvēlne tam sekos."
+  },
+  "privacyHeader": {
+    "message": "Konfidencialitāte"
+  },
+  "privacyNote": {
+    "message": "Vienīgais, ko šis paplašinājums glabā, ir viens skaitlis — tavs vēlamais ātrums. Nav kontu, nav mākoņa, nav izsekošanas. Lekcijas video paliek tavā cilnē. Nekas neatstāj tavu ierīci."
+  },
+  "disclaimer": {
+    "message": "Nav saistīts ar Echo360."
+  },
+  "footerLink": {
+    "message": "Izveidoja zovo.one →"
+  }
+}
